@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p icomp Calculates informational criteria (AIC, SBIC, ICOMP) Use icomp With STATA 19

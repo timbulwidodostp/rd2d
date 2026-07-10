@@ -1,0 +1,4 @@
+D 'icomp': Calculates informational criteria (AIC, SBIC, ICOMP) Use icomp With STATA 19
+D
+F icomp.ado
+F icomp.hlp
