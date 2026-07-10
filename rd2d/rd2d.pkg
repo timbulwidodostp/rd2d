@@ -1,4 +1,25 @@
-D 'icomp': Calculates informational criteria (AIC, SBIC, ICOMP) Use icomp With STATA 19
+D 'rd2d': Implements location-based bivariate local polynomial boundary regression discontinuity estimation and inference Use rd2d With STATA 19
 D
-F icomp.ado
-F icomp.hlp
+F _rd2d_dist_fit.ado
+F _rd2d_loc_fit.ado
+F _rd2d_masspoints_warn.ado
+F rd2d.ado
+F rd2d.sthlp
+F rd2d_aggregate.ado
+F rd2d_aggregate.sthlp
+F rd2d_bwsens.ado
+F rd2d_bwsens.sthlp
+F rd2d_diagnostics.ado
+F rd2d_diagnostics.sthlp
+F rd2d_dist.ado
+F rd2d_dist.sthlp
+F rd2d_plot.ado
+F rd2d_plot.sthlp
+F rd2d_summary.ado
+F rd2d_summary.sthlp
+F rd2d_table.ado
+F rd2d_table.sthlp
+F rdbw2d.ado
+F rdbw2d.sthlp
+F rdbw2d_dist.ado
+F rdbw2d_dist.sthlp
